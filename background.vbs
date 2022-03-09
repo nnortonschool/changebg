@@ -1,3 +1,11 @@
+'''''''''''''''''''''''''''''''''''''''''''''''''
+'                                               '
+'   https://github.com/nnortonschool/changebg   '
+'                                               '
+'   © the huggy wuggy license                   '
+'                                               '
+'''''''''''''''''''''''''''''''''''''''''''''''''
+
 dim wshShell
 dim sUserName
 
